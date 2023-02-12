@@ -63,3 +63,5 @@ The website will be supported for as long as the company is in business or until
 The website will be retired either when the company no longer has any need for it or if the company decides to get another new website made to replace this one, in which case the old one will redirect any viitors to the new site and after a while will stop service altogether.
 # 7. Project Constraints
 Due to the small size of the team, development will be relatively slow and will not have many resources in terms of funds to go above and beyond with the project.
+# 8. Appendix
+## 8.1 Acronyms and abbreviations
